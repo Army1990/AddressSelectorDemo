@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">三级联动</string>
+
+    <string name="command_value_hidden">{HIDDEN}</string>
+    <!-- 地址管理 -->
+    <string name="address_name">请填写收货人姓名</string>
+    <string name="address_detail_name">请填写详细地址</string>
+    <string name="address_postcode">如: 311100</string>
+</resources>
